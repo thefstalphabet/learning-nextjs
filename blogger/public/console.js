@@ -1,0 +1,1 @@
+console.log("Hey the script is sucessfully added in side head tag");
