@@ -1,0 +1,4 @@
+1) How to setup initial files for nextjs application:
+    command: npx create-next-app
+2) To start app: 
+    command: npm run dev
