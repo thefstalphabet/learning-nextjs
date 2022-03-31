@@ -1,0 +1,21 @@
+/* body */
+.dashboard_body {
+  text-align: center;
+  margin-top: 3rem;
+}
+.dashboard_body p {
+    margin-bottom: 2rem;
+}
+
+/* blogges */
+.popular_blogges {
+  margin-top: 2rem;
+  padding: 0.5rem;
+  text-align: left;
+}
+.popular_blogges .blogges {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
